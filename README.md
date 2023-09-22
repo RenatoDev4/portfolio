@@ -21,7 +21,7 @@ Ex-Empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 Python・TensorFlow・PyTorch・NLP・NLTK・PySpark・SpaCy・chatGPT・Pandas・Scikit-Learn・Numpy・Scipy・SQL・PostgreSQL・MongoDB・PySpark・Git・Beautiful Soup
 
-## Projetos
+### Projetos
 
 ## Principais destinos para compra e venda de veículos no Brasil
 
