@@ -8,11 +8,11 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 ## Experiência profissional
 
-**Café Família Ribeiro** 2018 - 2022
+**Café Família Ribeiro** / 2018 - 2022
 
 - Administrador da empresa e responsável pelos projetos de Machine Learning, um dos projetos que me dediquei com entusiasmo foi a utilização de técnicas de ML para a identificação de doenças do café.
 
-**CK** 2011 - 2017
+**CK** / 2011 - 2017
 
 - Administrador da empresa e responsável desenvolvimento e manutenção do site da empresa e aplicações web em Python utilizando Django e Flask.
 
