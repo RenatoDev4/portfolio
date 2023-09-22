@@ -35,7 +35,7 @@ Python・TensorFlow・PyTorch・NLP・NLTK・PySpark・SpaCy・chatGPT・Pandas�
 
 ## Alguns dos meus projetos:
 
-# Principais destinos para compra e venda de veículos no Brasil
+### Principais destinos para compra e venda de veículos no Brasil
 
 Quais são os locais mais recomendados para adquirir veículos com fins de revenda e quais modelos de carros oferecem o maior potencial de lucratividade?
 
@@ -45,7 +45,7 @@ Para obter informações mais detalhadas sobre o modelo, você pode acessar o me
 
 ![Random Forest](assets/random_forest_logo.png)
 
-# Modelo de Credit Score para cartões de crédito
+### Modelo de Credit Score para cartões de crédito
 
 Modelo de aprendizado de máquina desenvolvido para avaliar a probabilidade de um cliente tornar-se inadimplente após a solicitação de um cartão de crédito.
 
@@ -57,7 +57,7 @@ Para obter uma análise mais aprofundada do projeto, você pode explorar os deta
 
 ![Regressão Logistica](assets/Regressao_logistica.svg)
 
-# Sistema de diagnóstico de doenças em folhas de cafeeiro.
+### Sistema de diagnóstico de doenças em folhas de cafeeiro.
 
 O modelo foi construído utilizando a biblioteca **PyTorch**, com processamento realizado na GPU, empregando uma rede neural convolucional composta por 128 neurônios. O desempenho do modelo demonstrou uma média de acurácia que varia entre 92% a 96% nas imagens de teste.
 
@@ -67,7 +67,7 @@ Para uma análise mais aprofundada do projeto, você tem a opção de consultar 
 
 ![Rede Neural](assets/Redes-nuerais.png)
 
-# Outros projetos
+### Outros projetos
 
 Tenho diversos outros projetos disponíveis, e todos eles estão acessíveis no meu [Perfil do GitHub](https://github.com/RenatoDev4?tab=repositories)
 
