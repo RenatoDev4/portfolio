@@ -53,6 +53,8 @@ Este projeto envolve o desenvolvimento de um modelo de aprendizado de máquina a
 
 Para uma análise mais aprofundada do projeto, você tem a opção de consultar os detalhes completos no meu repositório no GitHub, acessível por meio deste [link](https://github.com/RenatoDev4/coffe-disease-and-pest)
 
+![Rede Neural](assets/Redes-nuerais.png)
+
 ## Outros projetos
 
 Tenho diversos outros projetos disponíveis, e todos eles estão acessíveis no meu [Perfil do GitHub](https://github.com/RenatoDev4?tab=repositories)
