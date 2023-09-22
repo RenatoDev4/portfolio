@@ -31,7 +31,7 @@ Este projeto foi desenvolvido em **Python**, utilizando o algoritmo de aprendiza
 
 Para obter informações mais detalhadas sobre o modelo, você pode acessar o meu repositório no GitHub: [aqui](https://github.com/RenatoDev4/projeto_veiculos_completo/tree/main) ou visitar o projeto em execução em um servidor web através deste link: [aqui](https://projeto-renato-datascience-veiculos.streamlit.app/)
 
-![Random Forest](assets/Random_Forest.jpg)
+![Random Forest](assets/random_forest_logo.png)
 
 ## Modelo de Credit Score para cartões de crédito
 
