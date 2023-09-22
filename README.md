@@ -1,6 +1,6 @@
-# Data Scientist <img src="assets/Renato.png" width="270" height="270" />
+# Data Scientist
  
-#### Sobre mim:
+#### Sobre mim: <img src="assets/Renato.png" width="270" height="270" />
 
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
