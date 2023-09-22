@@ -12,6 +12,7 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 **Café Família Ribeiro** / 2018 - 2022
 
+- Gerente de Administração
 - Supervisão das operações diárias e gestão eficiente dos recursos.
 - Liderança de equipe (2 funcionários), incluindo contratação e treinamento.
 - Implementação de políticas para melhorar a eficiência.
