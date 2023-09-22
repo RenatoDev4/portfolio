@@ -43,6 +43,8 @@ Neste projeto, conduzi uma análise estatística abrangente, empregando técnica
 
 Para obter uma análise mais aprofundada do projeto, você pode explorar os detalhes completos no meu repositório GitHub disponível [aqui](https://github.com/RenatoDev4/credit_score_lr_completo) ou experimentar a aplicação em funcionamento por meio deste link [aqui](https://credit-score-renato.streamlit.app/)
 
+![Regressão Logistica](assets/Regressao_logistica.svg)
+
 ## Sistema de diagnóstico de doenças em folhas de cafeeiro.
 
 O modelo foi construído utilizando a biblioteca **PyTorch**, com processamento realizado na GPU, empregando uma rede neural convolucional composta por 128 neurônios. O desempenho do modelo demonstrou uma média de acurácia que varia entre 92% a 96% nas imagens de teste.
