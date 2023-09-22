@@ -2,9 +2,11 @@
  
 #### Sobre mim:
 
+![](assets/Renato.png | width=270 height=270)
+
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
-## Ferramentas e Habilidades ##
+## Ferramentas e Habilidades
 - Linguagem Python (POO, testes unitários, empacotamento, boas práticas de programação)
 - Tenho vivência em Git, com repositórios pessoais no GitHub
 - NLP, com experiência em NLTK e Spacy
@@ -17,7 +19,7 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 - Conhecimento básico em outras linguagens de programação como C++ e Java.
 - Além disso, tenho conhecimentos básicos em Front-End e lidar com códigos em JavaScript, HTML5 ou CSS não são tarefas impeditivas para mim.
 
-## Habilidades técnicas: 
+## Habilidades técnicas
 
 Python・TensorFlow・PyTorch・NLP・NLTK・PySpark・SpaCy・chatGPT・Pandas・Scikit-Learn・Numpy・Scipy・SQL・PostgreSQL・MongoDB・PySpark・Git・Beautiful Soup
 
