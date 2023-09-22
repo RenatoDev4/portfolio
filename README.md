@@ -1,5 +1,3 @@
-<img src="assets/Renato.png" width="270" height="270">
-
 # Data Scientist
  
 #### Sobre mim:
