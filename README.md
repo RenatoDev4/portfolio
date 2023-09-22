@@ -1,6 +1,6 @@
 <img src="assets/Renato.png" width="270" height="270">
 
-# Datahttps://i.imgur.com/ZWnhY9T.png Scientist
+# Data Scientist
  
 #### Sobre mim:
 
