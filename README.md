@@ -6,7 +6,7 @@ Um autodidata apaixonado por Machine Learning que é obcecado por Data science e
 
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
-## Ferramentas e Habilidades
+## Ferramentas e habilidades
 - Linguagem Python (POO, testes unitários, empacotamento, boas práticas de programação)
 - Tenho vivência em Git, com repositórios pessoais no GitHub
 - NLP, com experiência em NLTK e Spacy
