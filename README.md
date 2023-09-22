@@ -6,6 +6,8 @@ Um autodidata apaixonado por Machine Learning que é obcecado por Data science e
 
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
+---
+
 ## Experiência profissional
 
 **Café Família Ribeiro** / 2018 - 2022
@@ -14,7 +16,9 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 **CK** / 2011 - 2017
 
-- Administrador da empresa e responsável desenvolvimento e manutenção do site da empresa e aplicações web em Python utilizando Django e Flask.
+- Administrador da empresa e responsável desenvolvimento e manutenção do site da empresa e aplicações web em Python utilizando Django e Flask.]
+
+---
 
 ## Ferramentas e habilidades
 - Linguagem Python (POO, testes unitários, empacotamento, boas práticas de programação)
@@ -29,9 +33,13 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 - Conhecimento básico em outras linguagens de programação como C++ e Java.
 - Além disso, tenho conhecimentos básicos em Front-End e lidar com códigos em JavaScript, HTML5 ou CSS não são tarefas impeditivas para mim.
 
+---
+
 ## Habilidades técnicas
 
 Python・TensorFlow・PyTorch・NLP・NLTK・PySpark・SpaCy・chatGPT・Pandas・Scikit-Learn・Numpy・Scipy・SQL・PostgreSQL・MongoDB・PySpark・Git・Beautiful Soup
+
+---
 
 ## Alguns dos meus projetos:
 ---
