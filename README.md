@@ -2,7 +2,7 @@
  
 #### Sobre mim:
 
-![](assets/Renato.png | width=270 height=270)
+![[assets/Renato.png|width=270px]]
 
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
