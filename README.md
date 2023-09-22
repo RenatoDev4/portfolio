@@ -1,6 +1,6 @@
 # Data Scientist
  
-#### Sobre mim:
+## Sobre mim:
 
 Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Machine Learning e Inteligência Artificial. Atualmente, tenho me especializado em Deep Learning. Sou uma pessoa com perfil autodidata, prezo sempre pelo trabalho em equipe e busco cooperar e ajudar a todos da melhor maneira possível.
 
@@ -21,7 +21,7 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 Python・TensorFlow・PyTorch・NLP・NLTK・PySpark・SpaCy・chatGPT・Pandas・Scikit-Learn・Numpy・Scipy・SQL・PostgreSQL・MongoDB・PySpark・Git・Beautiful Soup
 
-### Projetos
+#Alguns Projetos
 
 ## Principais destinos para compra e venda de veículos no Brasil
 
