@@ -21,7 +21,10 @@ Ex-empreendedor, com experiência na área de Análise e Ciência de Dados, Mach
 
 **CK** / 2011 - 2017
 
-- Administrador da empresa e responsável desenvolvimento e manutenção do site da empresa e aplicações web em Python utilizando Django e Flask.
+- Experiência como proprietário de uma empresa de venda de licenças de software.
+- Liderança de uma equipe (5 funcionários), com foco na tomada de decisões estratégicas e resolução de desafios operacionais.
+- Responsável pela precificação de produtos e implementação de estratégias promocionais.
+- Contribuição ativa na área de marketing, incluindo o desenvolvimento de campanhas publicitárias no Google, Facebook Ads e outras plataformas.
 
 ---
 
